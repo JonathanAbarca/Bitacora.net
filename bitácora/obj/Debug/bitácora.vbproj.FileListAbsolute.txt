@@ -1,0 +1,492 @@
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\bin\Debug\bitácora.exe.config
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\bin\Debug\bitácora.exe
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\bin\Debug\bitácora.pdb
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\bin\Debug\bitácora.xml
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\obj\Debug\bitácora.exe
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\obj\Debug\bitácora.xml
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\obj\Debug\bitácora.pdb
+c:\users\jony\documents\visual studio 2013\Projects\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\documents\visual studio 2013\Projects\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\bin\Debug\bitácora.exe.config
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.exe
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.xml
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.pdb
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\bin\Debug\bitácora.exe
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\bin\Debug\bitácora.pdb
+\\VBOXSVR\Compartida_Bitacora\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\Compartida_Bitacora\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Gaby\Desktop\ava\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\avan 27-10\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Gaby\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\avan 28-10\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\bin\Debug\IrisSkin2.dll
+C:\Users\Jony\Desktop\avan 29-10\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\avan 06-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Gaby\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\na\avan 11-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\ultimo avanze\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_tareasex.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_histareasex.resources
+C:\Users\Jony\Desktop\avan 11-11\bitácora\bitácora\obj\Debug\bitácora.frm_mantenciones.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_histareasex.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_mantenciones.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_tareasex.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\avan 17-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_histareasex.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_mantenciones.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_tareasex.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Gaby\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_histareasex.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_mantenciones.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_tareasex.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_manrealizada.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alertas.resources
+C:\Users\Jony\Desktop\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_usuario.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alertas.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_histareasex.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_manrealizada.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_mantenciones.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_tareasex.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_usuario.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Gaby\Desktop\ultimo avanze\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_camcontra.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alertas.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_histareasex.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_camcontra.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_manrealizada.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_mantenciones.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_tareasex.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_usuario.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_imprimirhis.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_moshist.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alertas.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_histareasex.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_camcontra.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_manrealizada.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_mantenciones.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_tareasex.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_usuario.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_imprimirhis.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_moshist.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.Cache
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.exe
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.pdb
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\bitácora.xml
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\bin\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\yo-NG\bitácora.resources.dll
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_calles.resources
+C:\Users\Gaby\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_puntos.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_calles.resources
+C:\Users\Jony\Desktop\ultino nuevo\ultimo\avan 17-11\bitácora\bitácora\obj\Debug\bitácora.frm_puntos.resources
+C:\Users\Jony\Desktop\ultino nuevo\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\Jony\Desktop\ultino nuevo\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jony\Desktop\ultino nuevo\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jony\Desktop\ultino nuevo\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\coxiri\Desktop\Proyecto ingenieria programa\bitácora\bitácora\bin\Debug\bitácora.exe.config
+C:\Users\coxiri\Desktop\Proyecto ingenieria programa\bitácora\bitácora\obj\Debug\bitácora.exe
+C:\Users\coxiri\Desktop\Proyecto ingenieria programa\bitácora\bitácora\obj\Debug\bitácora.xml
+C:\Users\coxiri\Desktop\Proyecto ingenieria programa\bitácora\bitácora\obj\Debug\bitácora.pdb
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.vbproj.AssemblyReference.cache
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_alertas.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_alumbrado.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_busquedaloc.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_caja.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_componentes.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_gabinete.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_histareasex.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_historial.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_liscompo.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_login.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_calles.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_camcontra.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_manrealizada.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_mantenciones.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_nuetarea.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_nuevopunto.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_principal.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_puntos.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_tareasex.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_usuario.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.Resources.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_imprimirhis.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_moshist.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.frm_principal.yo-NG.resources
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.vbproj.GenerateResource.cache
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.exe
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.xml
+C:\Users\Jonathan Abarca\Downloads\bitacora\bitácora\obj\Debug\bitácora.pdb
